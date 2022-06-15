@@ -1,6 +1,6 @@
 # carefree-cython
 
-`carefree-cython` implemented some commonly used cython functions
+`carefree-cython` implements some commonly used cython functions.
 
 
 ## Installation
