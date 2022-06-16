@@ -6,7 +6,7 @@ from typing import Any
 from typing import Dict
 from functools import partial
 from cftool.misc import is_numeric
-from cftool.misc import StrideArray
+from cftool.array import StrideArray
 
 
 def naive_rolling_sum(

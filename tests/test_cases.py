@@ -3,7 +3,7 @@ import unittest
 import numpy as np
 
 from cftool.misc import timeit
-from cftool.misc import allclose
+from cftool.array import allclose
 
 from cfc.api import *
 from cfc.stat import *

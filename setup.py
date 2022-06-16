@@ -6,14 +6,14 @@ from setuptools import find_packages
 from setuptools import Extension
 
 
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 
 DESCRIPTION = "Some commonly used cython functions"
 with open("README.md") as f:
     LONG_DESCRIPTION = f.read()
 
 INSTALL_REQUIRES = [
-    "carefree-toolkit>=0.2.10",
+    "carefree-toolkit>=0.2.11",
 ]
 
 setup(
